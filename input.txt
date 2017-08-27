@@ -1,0 +1,2 @@
+ORIGINAL-FILENAME-(\d{4})-(\d{2})-(\d{2})-\d{2}-\d{2}-\d{2}.pdf=NEW-FILENAME-%VVVV%%KK%.pdf
+ORIGINAL-FILENAME-VKO-(\d{4})-(\d{2})-(\d{2})-\d{2}-\d{2}-\d{2}.pdf=NEW-FILENAME-%VKO%-%VVVV%%KK%.pdf
